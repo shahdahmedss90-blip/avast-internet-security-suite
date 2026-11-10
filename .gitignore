@@ -1,0 +1,8 @@
+yarn-error.log*
+.env
+dist/
+*.tgz
+.pnpm-store/
+node_modules/
+.next/
+*.log
